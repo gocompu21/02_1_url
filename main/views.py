@@ -10,7 +10,7 @@ blog_list_db = [
     },
     {
         "id": 2,
-        "title": "파이썬도 매우 재미져~~~~~",
+        "title": "파이썬도 매우 재미져~~~~~커밋할래",
         "content": "Content 2",
         "author": "user2",
     },
