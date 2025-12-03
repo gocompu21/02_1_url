@@ -4,7 +4,7 @@ from django.http import HttpResponse
 blog_list_db = [
     {
         "id": 1,
-        "title": "장고는 너무 재밌어.",
+        "title": "장고는 너무 재밌어. 그래 계속해",
         "content": "Content 1",
         "author": "user1",
     },
