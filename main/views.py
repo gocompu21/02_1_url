@@ -45,7 +45,7 @@ user_list_db = [
 
 
 def index(request):
-    return HttpResponse("Hello World")
+    return HttpResponse("Hello World2")
 
 
 def blog_list(request):
