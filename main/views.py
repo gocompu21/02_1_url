@@ -5,7 +5,7 @@ blog_list_db = [
     {
         "id": 1,
         "title": "장고는 너무 재밌어. 그래 계속해",
-        "content": "Content 1",
+        "content": "내용입니다.",
         "author": "user1",
     },
     {
