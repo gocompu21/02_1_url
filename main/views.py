@@ -4,7 +4,7 @@ from django.http import HttpResponse
 blog_list_db = [
     {
         "id": 1,
-        "title": "상현는 너무 재밌어. 그래 계속해",
+        "title": "상현22222는 너무 재밌어. 그래 계속해",
         "content": "내용입니다.",
         "author": "user1",
     },
@@ -45,7 +45,7 @@ user_list_db = [
 
 
 def index(request):
-    return HttpResponse("Hello World2")
+    return HttpResponse("Hello World")
 
 
 def blog_list(request):
